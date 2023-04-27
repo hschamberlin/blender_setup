@@ -1,4 +1,3 @@
 blender_setup
 =============
-
-trying to get a .js exporter from blender
+A project reminder for blender -> js exporter. This has since been solved by the community
